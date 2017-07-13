@@ -2,7 +2,7 @@ Demo code for SG_Next presentation
 ======
 August 2016
 
-Accompanying slides are [here]()
+Accompanying slides are [here](https://docs.google.com/presentation/d/1dVyvq55ieX4W23g0RavFaFcAh9Jvicl1h35ptsOcO6U/edit?usp=sharing)
 
 ## Demos
 
